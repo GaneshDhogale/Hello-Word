@@ -1,2 +1,2 @@
-# Hello-Word
-My !st Repositary
+
+Printf("Hello word");
